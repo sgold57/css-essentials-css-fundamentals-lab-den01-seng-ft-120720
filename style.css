@@ -4,12 +4,11 @@ body {
   margin: 0;
 }
 
-h1 {
+h1, a {
   text-align: center;
 }
 
-nav a {
-  text-align: center;
+nav {
   padding-left: 10px;
   padding-right: 10px;
   color: grey;
