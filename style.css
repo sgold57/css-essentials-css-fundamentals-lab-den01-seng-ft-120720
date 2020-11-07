@@ -5,10 +5,13 @@ body {
   text-align: center;
 }
 
+a {
+  background-color: grey;
+}
+
 nav {
   padding-left: 10px;
   padding-right: 10px;
-  color: grey;
 }
 
 img {
