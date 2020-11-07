@@ -31,7 +31,8 @@ figcaption {
 }
 
 #details {
-  display: block
+  display: block;
+  background-color: red;
 }
 
 #details > div{
