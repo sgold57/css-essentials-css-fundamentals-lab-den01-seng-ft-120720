@@ -8,6 +8,12 @@ h1 {
   text-align: center;
 }
 
+nav {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: grey
+}
+
 img {
   display: block;
   margin-left: auto;
